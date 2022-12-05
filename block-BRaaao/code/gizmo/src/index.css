@@ -1,0 +1,28 @@
+.flex {
+display: flex;
+justify-content: space-between;
+}
+ul {
+ list-style: none;   
+ display: flex;
+}
+li {
+    margin-left: 1rem;
+}
+
+h3 {
+    font-size: 1rem;
+}
+.article {
+    width: 200px;
+}
+.articles {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.hero-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0 ;
+}
