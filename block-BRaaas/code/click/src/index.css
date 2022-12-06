@@ -15,12 +15,11 @@ code {
 button:hover {
   cursor: pointer;
 }
-.event {
+.clickevent {
   text-align: center;
 }
 
 button {
-
   width: 200px;
   height: 100px;
   background-color: aquamarine;

@@ -8,7 +8,7 @@ import Header from './components/Header';
 
 function App() {
   return (
-<div className='event'>
+<div className='clickevent'>
      <Header/>
      < Button/>
      <Click/>
