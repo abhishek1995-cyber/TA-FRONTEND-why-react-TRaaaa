@@ -1,0 +1,24 @@
+.small-btn {
+    width: 10rem;
+    padding: 2rem 0;
+    
+}
+.medium-btn {
+    width: 15rem;
+    padding: 2rem 0 ;
+}
+
+.large-btn {
+    width: 20rem;
+    padding: 2rem 0;
+}
+
+.pri-btn {
+    background-color: rgb(35, 203, 80);
+}
+.sec-btn {
+    background-color: blue;
+}
+.ter-btn {
+    background-color: aqua;
+}
